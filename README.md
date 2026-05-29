@@ -2,6 +2,8 @@
 A bioinformatics workflow for CTX-M β-lactamase sequence retrieval, multiple sequence alignment, conservation profiling, and evolutionary interpretation using publicly available NCBI protein data.
 
 
+
+
 ## Biological Goal:
   -  Compare β-lactamase sequences from different bacterial origins
   -  Identify evolutionarily conserved and highly variable regions
@@ -23,21 +25,3 @@ Visualization
 Biological Interpretation
 
 
-## Project Structure
-analysis/
-│
-├── data/
-│   ├── ctxm_refseq_full.fasta
-│   └── ctxm_refseq_full_aligned.fasta
-│
-├── notebooks/
-│   ├── 01_fetch_sequences.ipynb
-│   ├── 02_alignment.ipynb
-│   └── 03_conservation_analysis.ipynb
-│
-├── figures/
-│   └── conservation_profile.png
-│
-├── README.md
-│
-└── requirements.txt
