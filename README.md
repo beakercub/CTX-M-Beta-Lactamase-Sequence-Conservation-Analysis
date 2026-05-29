@@ -24,4 +24,9 @@ Visualization
 ↓
 Biological Interpretation
 
+## Biological Interpretation
+
+  The conservation profile revealed that most positions in CTX-M beta-lactamases are highly conserved, with conservation scores above 0.8 across the majority of the alignment. This suggests strong evolutionary constraints on the protein sequence and indicates that many residues are important for maintaining structural stability and enzymatic function.
+  Several regions showed reduced conservation scores, indicating sequence variability among CTX-M family members. These variable positions may contribute to subtype-specific adaptations, substrate preferences, or evolutionary diversification within the CTX-M beta-lactamase family.
+  Overall, the analysis suggests that CTX-M beta-lactamases contain a highly conserved functional core surrounded by more flexible regions that tolerate sequence variation. Such patterns are commonly observed in enzyme families undergoing evolutionary adaptation while preserving catalytic activity.
 
