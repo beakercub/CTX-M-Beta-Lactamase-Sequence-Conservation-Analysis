@@ -35,7 +35,9 @@ analysis/
 │   ├── 02_alignment.ipynb
 │   └── 03_conservation_analysis.ipynb
 │
-├── results/
+├── figures/
 │   └── conservation_profile.png
 │
-└── README.md
+├── README.md
+│
+└── requirements.txt
