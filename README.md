@@ -38,4 +38,4 @@ analysis/
 ├── results/
 │   └── conservation_profile.png
 │
-└── requirements.txt README.md
+└── README.md
